@@ -1,6 +1,6 @@
 # CDCGov Organization
 
-This is [CDC's](https://www.cdc.gov) GitHub organization for collaborating on open-source projects. More information on CDC's open collaboration projects is available at [openCDC](https://open.cdc.gov).
+This is [CDC's](https://www.cdc.gov) GitHub organization for collaborating on open source projects. More information on CDC's open collaboration projects is available at [openCDC](https://open.cdc.gov).
 
 Check out our [Open Source Practices](https://github.com/CDCgov/template/blob/master/open_practices.md) and please suggest any ideas for improvement by sending a pull request.
 
